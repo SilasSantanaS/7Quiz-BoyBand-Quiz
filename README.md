@@ -1,16 +1,13 @@
-# aplicativo
+# One Direction Quiz
 
-A new Flutter project.
+Simple quiz app with **7 questions** to test your knowledge about one of the most famous boy band ever.
 
-## Getting Started
+## 7Quiz | One Direction
 
-This project is a starting point for a Flutter application.
+Here goes a **hint**: In the beginning they were ~~4 members~~. Ops, I mean 5 members hahaha.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> > Check out their website clicking the link below
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[One Direction Official Web Site](http://www.onedirectionmusic.com/br/home)
